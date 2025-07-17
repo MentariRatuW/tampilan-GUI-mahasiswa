@@ -16,7 +16,7 @@ Project Python sederhana yang menggunakan fungsi untuk menampilkan:
 - Python 3
 
 ## ▶ Cara Menjalankan
-1. Buka file project1.py di editor Python
+1. Buka file mentari.py di editor Python
 2. Jalankan program (F5 atau Run)
 3. Ikuti perintah input:
    - Isi biodata mahasiswa (nama, NIM, jurusan)
