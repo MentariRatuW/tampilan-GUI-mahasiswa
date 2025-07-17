@@ -32,7 +32,7 @@ Project Python sederhana yang menggunakan fungsi untuk menampilkan:
 - Lulus jika nilai akhir ≥ 60
 
 ## 🖼 Screenshot
-[Lihat hasil tampilan program di Google Drive](https://drive.google.com/drive/folders/link-screenshot)
+[Lihat hasil tampilan program di Google Drive](https://drive.google.com/drive/folders/14GEF6BSuDTZjxpCDvitkxzFZIhUM69OI)
 
 ## 📁 Status
 ✅ Selesai dan berjalan dengan baik
